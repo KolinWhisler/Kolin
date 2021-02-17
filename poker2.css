@@ -5,27 +5,17 @@ fieldset{
     width: 100%;
     align-items: center;
     justify-content: center;
-}
+    }
 body{
     background-image: url("MyMedia/poker.jpg");
-
 }
+
 .myRow{
-    padding: 2.5px;
-    flex: 25%;
-    width: 33%;
-    
-    
-    }
+    width: 75%;
+    margin-left: 15%;
+}
 
 .myColumn{
-    padding: 2.5px;
-    align-content: center;
-    align-items: center;
-    justify-content: center;
-    text-align: left;
-    align-self: center;
-    column-gap: 33%;
-   
-
-    }
+    width: 75%;;
+    margin-left: 15%;
+}
